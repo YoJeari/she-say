@@ -154,7 +154,7 @@ she-say 不参与骂战。对于极端引战、性别辱骂、人身攻击的输
 
 ## 致谢
 
-- 感谢 **[cangjie-skill](https://github.com/kangarooking/cangjie-skill) ** 框架，让把一本书蒸馏成可调用的分析引擎成为可能
+- 感谢 **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** 框架，让把一本书蒸馏成可调用的分析引擎成为可能
 - 感谢所有女性主义学者的思想贡献
 
 ---
